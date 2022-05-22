@@ -14,3 +14,7 @@ JAVA practice by @calmastorm
 - Fix the bug that repeated attempts cannot be detected.
 - Add a feature that players can quit in game by entering "quit".
 - Adjust the display content in console.
+
+[5-19-2022]
+
+- Bug detected: players can input same digits in a round. i.e. '4300'
