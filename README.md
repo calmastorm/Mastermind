@@ -17,4 +17,8 @@ JAVA practice by @calmastorm
 
 [5-19-2022]
 
-- Bug detected: players can input same digits in a round. i.e. '4300'
+- Bug detected: players can input same numbers in a round. i.e. '4300'
+
+[6-17-2021]
+- Released 1.2 version.
+- Fix the bug that allows users to input repeating numbers in a round.
