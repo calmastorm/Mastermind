@@ -19,6 +19,6 @@ JAVA practice by @calmastorm
 
 - Bug detected: players can input same numbers in a round. i.e. '4300'
 
-[6-17-2021]
+[6-17-2022]
 - Released 1.2 version.
 - Fix the bug that allows users to input repeating numbers in a round.
